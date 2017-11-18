@@ -1,0 +1,10 @@
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\bin\Debug\Mark II.exe
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\bin\Debug\Mark II.pdb
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\obj\Debug\Mark II.csprojResolveAssemblyReference.cache
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\obj\Debug\Mark_II.Form1.resources
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\obj\Debug\Mark_II.Properties.Resources.resources
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\obj\Debug\Mark II.csproj.GenerateResource.Cache
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\obj\Debug\Mark II.exe
+c:\users\laércio.home\documents\visual studio 2017\Projects\Mark II\Mark II\obj\Debug\Mark II.pdb
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Mark II\Mark II\bin\Debug\AIMLbot.dll
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Mark II\Mark II\bin\Debug\Microsoft.Speech.dll
